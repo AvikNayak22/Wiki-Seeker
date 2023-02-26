@@ -7,7 +7,7 @@ To run this application on your local machine, you need to have Node.js installe
 1. Clone this repository to your local machine using git clone https://github.com/AvikNayak22/wiki-search-app.git.
 2. Navigate to the cloned directory using cd wiki-search.
 3. Install the required dependencies by running npm install.
-4. Start the application by running npm start.
+4. Start the application by running npm run dev.
 
 **Usage**<br/>
 To use this application, simply enter a search query in the search box and hit enter or click the search button. The application will display up to 20 search results along with a link to read more about each result.

@@ -1,8 +1,8 @@
-## Wiki-search
+## Wiki-Seeker
 A simple Wikipedia search interface built with React.
 
 ### Description
-Wiki-search is a web application that allows users to search for articles on Wikipedia based on their query. It uses the Wikipedia API to fetch search results and displays them in a user-friendly format. The application is built with React, utilizing the useState hook for managing state.
+Wiki-Seeker is a web application that allows users to search for articles on Wikipedia based on their query. It uses the Wikipedia API to fetch search results and displays them in a user-friendly format. The application is built with React, utilizing the useState hook for managing state.
 
 ### Features
 - Search for articles on Wikipedia.

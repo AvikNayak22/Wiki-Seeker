@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>WikiSeeker</h1>
+        <h1>Wiki Seeker</h1>
         {/* Search box form */}
         <form className="search-box" onSubmit={handleSearch}>
           <input
